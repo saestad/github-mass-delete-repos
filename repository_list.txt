@@ -1,1 +1,1 @@
-write_repository_name_here,seperated-by-comma
+write_repository_names_here,seperated-by-comma
